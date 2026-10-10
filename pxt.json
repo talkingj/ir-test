@@ -1,5 +1,5 @@
 {
-    "name": "IR-test",
+    "name": "ptx-ir-sensor",
     "description": "",
     "dependencies": {
         "core": "*",
